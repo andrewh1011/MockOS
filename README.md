@@ -1,4 +1,4 @@
-# Mock OS Studios/Lab
+# Mock OS
 A static library that
 implements a mock operating system.
 A user of this mock operating system can
